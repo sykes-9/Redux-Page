@@ -1,2 +1,1 @@
-"# Redux-page" 
-"# Redux-page" 
+"# Redux-Page" 
